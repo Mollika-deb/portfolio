@@ -1,7 +1,8 @@
 import React from 'react';
 import CTA from './CTA'
-import img from '../../assets/img2.png'
+import img from '../../assets/img1.jpg'
 import Icons from './Icons';
+import './Header.css'
 
 const Header = () => {
     return (
@@ -14,7 +15,7 @@ const Header = () => {
                 <Icons></Icons>
 
                 <div className='me'>
-                    <img src={img} alt = ""/>
+                    <img className='image' src={img} alt = ""/>
                 </div>
 
                     <a href="#contact" className='scrol_down'>Scroll Down</a>
