@@ -6,6 +6,7 @@ import Footer from './Components/Footer/Footer';
 import Header from './Components/Header/Header';
 import Navbar from './Components/Navbar/Navbar';
 import Portfolio from './Components/Portfolio/Portfolio';
+import Blog from './Components/Blog/Blog';
 
 
 const App = () => {
@@ -18,6 +19,7 @@ const App = () => {
             {/* <Services></Services> */}
             <Portfolio></Portfolio>
             <Contact></Contact>
+            <Blog></Blog>
             <Footer></Footer>
            
         </div>

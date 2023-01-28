@@ -36,7 +36,9 @@ const About = () => {
                         </article>
                     </div>
                    <div className='about-content'>
-                   <p >A front-end developer architects and develops websites and applications using web technologies (i.e., HTML, CSS, DOM, and JavaScript), which run on the Open Web Platform or act as compilation input for non-web platform environments (i.e., React Native).</p>
+                   <p>Hello! I'm Mollika and I work as a front-end developer.I recently received my four-year degree in computer science and engineering from Sylhet Engineering College. I have a good foundation in HTML, CSS, and JavaScript and a strong understanding of web design concepts and best practices.My portfolio includes a wide range of projects. I have experience working with React.
+Along with my technical abilities, I have a great sense of collaboration and communication.If you're searching for a front-end developer who is enthusiastic about building stunning and useful websites, please get in touch with me. Please feel free to browse my portfolio, read my blog, or get in touch with me directly to explore any possible prospects.
+</p>
                     <a href= "#contact" className='btn btn-primary'>Let's Talk</a>
                    </div>
 
